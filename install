@@ -35,8 +35,4 @@ function goInstall {
 
 goInstall mytest
 goInstall webtest
-#goInstall shudu_crond
-#goInstall shudu_data
-# goInstall shudu_news
-#goInstall shudu_fresh
-#goInstall shudu_op_data
+
